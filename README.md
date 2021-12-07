@@ -56,3 +56,9 @@ characters or above
 - Render the searched results as a list of weather items 
 - Support caching mechanism so as to prevent the app from generating a bunch of
 API requests
+# Result
+![first_screen](https://user-images.githubusercontent.com/5003463/144965656-f167e96d-ce79-4a5f-a8a3-ad99f7f33f56.png)
+![result_screen](https://user-images.githubusercontent.com/5003463/144965671-09290d5d-5677-4c8c-8792-17ba2a81a13b.png)
+
+
+
