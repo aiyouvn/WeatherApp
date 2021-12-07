@@ -1,4 +1,7 @@
 # WeatherApp
+# Setup and run application
+- Clone source code from develop branch
+- Open Android studio and open project after clone source code done.
 # Overview
 This Repository contains a Weather app that Implements MVVM clean Architecture in Kotlin using Retorfit2, Hilt, Coroutines, AndroidX, Android Jetpack
 # Implemented by Clean Architecture
