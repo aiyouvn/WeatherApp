@@ -63,7 +63,7 @@ fun WeatherListScreen(
             maxLines = 1,
             )
         Button(
-            enabled = valueInput.length > 3,
+            enabled = valueInput.length >= 3,
             onClick = {
                 viewModel.getWeatherList(valueInput)
                 focusManager.clearFocus()
